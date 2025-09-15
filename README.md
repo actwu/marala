@@ -10,3 +10,9 @@ Cutted in 3 Series
 | Linux | Web | Windows |
 
 This is a Compiler & Interpreter, Expect that the Interpreter will be develop first; As for features is to be solve.
+
+```sh
+say "Hi"
+ask NAME
+say Your back, NAME
+```
